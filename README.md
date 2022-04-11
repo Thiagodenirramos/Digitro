@@ -14,12 +14,13 @@ Tecnologia usada neste projeto:
 - 1 baixe o projeto do github
   -     git clone https://github.com/Thiagodenirramos/Digitro.git
 - 2 Acesse a pasta do projeto
-
-  -      cd Digitro
+  -     cd Digitro
 
 - 3 instale as pedendencias
-
-  -      npm install
+  -     npm install
 
 - 4 Inicia a aplicação
-  -      npm run dev
+  -     npm run dev
+
+- 5 Execute os teste
+  -     npm run test
