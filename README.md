@@ -5,7 +5,7 @@ Possui teste unitarios.
 
 # Tecnologias
 
-As tecnologias usadas neste projeto são:
+Tecnologia usada neste projeto:
 
 ![NODE JS](https://img.shields.io/static/v1?label=NodeJS&message=16.14.2&color=03254E&link=https://nodejs.org/en/&link=https://nodejs.org/en/)
 
